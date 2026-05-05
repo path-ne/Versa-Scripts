@@ -14,9 +14,6 @@ This repository contains automation scripts designed to validate and manage Vers
 ### Dependencies
 - **`Dependencies.py`** - Provides utility functions and API helper methods used by the main script
 
-### Additional
-- **`side_by_side.py`** - Helper module for side-by-side output formatting (imported by main script)
-
 ## Key Features
 
 ### Dependencies Module (`Dependencies.py`)
